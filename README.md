@@ -62,7 +62,7 @@ Examines how employee tenure affects attrition behavior.
 
 ## Dashboard Screenshot
 
-(Add your dashboard screenshot here)
+
 
 ![HR Dashboard](https://github.com/Stutiyadav12012004/HR_analytics-dashboard/blob/main/Screenshot%202026-06-15%20173117.png)
 
